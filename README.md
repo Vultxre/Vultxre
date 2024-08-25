@@ -1,3 +1,1 @@
-https: // gist.github.com/
-exampleuser/
-1234567890abcdef,
+loadstring(game:HttpGet("https://gist.githubusercontent.com/vultxre/1234567890abcdef/raw/vulture.lua"))()
